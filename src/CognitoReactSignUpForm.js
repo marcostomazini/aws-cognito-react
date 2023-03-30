@@ -41,6 +41,7 @@ debugger
                 attributes: {
                     email,
                     name: 'tomazini',
+                    'custom:CODPRESTADOR': '00134598',
                     phone_number: phoneNumber
                 }
             })
